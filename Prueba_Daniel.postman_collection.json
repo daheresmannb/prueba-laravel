@@ -1,0 +1,30 @@
+{
+	"info": {
+		"_postman_id": "ca9e41ac-24ad-4f72-a2a8-bb9b7b2e4bc5",
+		"name": "Prueba_Daniel",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "1424738"
+	},
+	"item": [
+		{
+			"name": "Beneficios",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:8000/api/beneficios",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8000",
+					"path": [
+						"api",
+						"beneficios"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
